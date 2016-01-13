@@ -12,8 +12,11 @@ Les Technos utilisées par le site SimplonMIP :
     
 Dans la console : 
 
+* npm install gulp-uglify
 * npm install 
-* bower install
+* bower install (installer bower au préalable avec npm)
+
+Rajouter dans etc/hosts : 192.168.1.97  server:8080
 
                   
                   
