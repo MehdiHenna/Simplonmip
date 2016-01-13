@@ -13,6 +13,7 @@ Les Technos utilisées par le site SimplonMIP :
 Dans la console : 
 
 * npm install 
+* bower install
 
                   
                   
